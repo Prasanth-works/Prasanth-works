@@ -33,19 +33,9 @@ I have experience working with modern web technologies including **HTML, CSS, Ja
 ---
 
 ## 💻 Projects
+- [**NxT Trendz**](eprasanthtrendz.ccbp.tech/login):A modern e-commerce web app with login authentication built using React.js [Username: `rahul` | Password: `rahul@2021`]
 
-- **Netflix Clone**  
-  A clone of Netflix with user authentication and movie previews  
-  - Username: `saira`  
-  - Password: `princess@9`
-
-- **NxT Trendz**  
-  A modern e-commerce web app with login authentication built using React.js  
-  - Username: `rahul`  
-  - Password: `rahul@2021`
-
-- **Jobby App**  
-  A job listing platform with filters and job details pages built using React.js and REST APIs  
+- [**Jobby App**](eprasanthjobapp.ccbp.tech/login):A job listing platform with filters and job details pages built using React.js and REST APIs  
 
 ---
 
